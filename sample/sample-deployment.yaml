@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:hoge
+        image: nginx:1.14.2
