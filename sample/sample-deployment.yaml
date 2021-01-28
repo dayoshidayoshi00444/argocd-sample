@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: hoge
+kind: Deployment
 metadata:
   name: sample-deployment
 spec:
